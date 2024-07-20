@@ -50,7 +50,6 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 • ᴍy ɴᴀᴍᴇ : {File rename fast bot}
 • ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/rin_nanakura>rin nanakura</a>
 • ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/team_society_1>bot society</a> 
-• sᴇʀɪᴇs : <a href=https://t.me/seriesflix_original>sᴇʀɪᴇsғʟɪx</a>
 • ᴀɴɪᴍᴇ: <a href=https://t.me/anime_sub_society>ᴀɴɪᴍᴇ sᴜʙ sᴏᴄɪᴇᴛʏ</a>
 • ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/ahss_help_zone>sᴏᴄɪᴇᴛʏ ᴄʜᴀᴛ ᴢᴏɴᴇ</a>
 ╰───────────────⍟ """
