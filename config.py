@@ -12,9 +12,9 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "7303259059:AAFQ6dM1DwBlVRcqooHeu9lJN735bljbOiw")  # ⚠️ Required
 
     # premium 4g renaming client
-    STRING_API_ID = os.environ.get("STRING_API_ID", "20718334")
-    STRING_API_HASH = os.environ.get("STRING_API_HASH", "4e81464b29d79c58d0ad8a0c55ece4a5")
-    STRING_SESSION = os.environ.get("STRING_SESSION", "5585016974")
+    STRING_API_ID = os.environ.get("STRING_API_ID", "")
+    STRING_API_HASH = os.environ.get("STRING_API_HASH", "")
+    STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
     # database config
     DB_NAME = os.environ.get("DB_NAME", "Cluster0")
