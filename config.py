@@ -24,7 +24,7 @@ class Config(object):
     BOT_UPTIME = time.time()
     START_PIC = os.environ.get("START_PIC", "")
     ADMIN = [int(admin) if id_pattern.search(
-        admin) else admin for admin in os.environ.get('ADMIN', '').split()]  # ⚠️ Required
+        admin) else admin for admin in os.environ.get('ADMIN', '5585016974').split()]  # ⚠️ Required
     
     FORCE_SUB = os.environ.get("FORCE_SUB", "-1002112596877") # ⚠️ Required Username without @
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002204896499"))  # ⚠️ Required
@@ -76,7 +76,7 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
 
 
-<b>➜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:</b> <a href=https://t.me/otakuflix_network>ᴏᴛᴀᴋᴜғʟɪx</a>
+<b>➜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:</b> <a href=https://t.me/anime_sub_society>ᴀɴɪᴍᴇ sᴜʙ sᴏᴄɪᴇᴛʏ</a>
 """
 
     SEND_METADATA = """
