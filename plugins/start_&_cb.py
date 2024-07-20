@@ -11,16 +11,16 @@ from time import sleep
 async def start(client, message):
 
     if message.from_user.id in Config.BANNED_USERS:
-        await message.reply_text("Sorry, You are banned.")
+        await message.reply_text("chal, bhag yaha se ban hai tu gareeb.")
         return
 
     user = message.from_user
     await db.add_user(client, message)
     button = InlineKeyboardMarkup([[
         InlineKeyboardButton(
-            '⛅ ᴜᴘᴅᴀᴛᴇs', url='https://t.me/codeflix_bots'),
+            '⛅ ᴜᴘᴅᴀᴛᴇs', url='https://t.me/team_society_1'),
         InlineKeyboardButton(
-            '🌨️ sᴜᴘᴘᴏʀᴛ', url='https://t.me/weebs_support')
+            '🌨️ sᴜᴘᴘᴏʀᴛ', url='https://t.me/ahss_help_zone')
     ], [
         InlineKeyboardButton('❄️ ᴀʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('❗ ʜᴇʟᴘ', callback_data='help')
