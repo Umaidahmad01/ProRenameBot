@@ -9,7 +9,7 @@ class Config(object):
     # pyro client config
     API_ID = os.environ.get("API_ID", "20718334")  # ⚠️ Required
     API_HASH = os.environ.get("API_HASH", "4e81464b29d79c58d0ad8a0c55ece4a5")  # ⚠️ Required
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7303259059:AAFQ6dM1DwBlVRcqooHeu9lJN735bljbOiw")  # ⚠️ Required
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6363889833:AAGcDoJJGc2f9-5QrOR7Ni3w_mvv2wRU6-A")  # ⚠️ Required
 
     # premium 4g renaming client
     STRING_API_ID = os.environ.get("STRING_API_ID", "")
@@ -93,5 +93,5 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ➜ 🗃️ sɪᴢᴇ: {1} | {2}
 ➜ ⏳️ ᴅᴏɴᴇ : {0}%
 ➜ 🚀 sᴘᴇᴇᴅ: {0}/s
-➜ ⏰️ ᴇᴛᴀ: {0}
+➜ ⏰️ ᴇᴛᴀ: {12}
 ╰━━━━━━━━━━━━━━━➜ </b>"""
