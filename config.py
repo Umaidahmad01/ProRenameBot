@@ -9,7 +9,7 @@ class Config(object):
     # pyro client config
     API_ID = os.environ.get("API_ID", "20718334")  # ⚠️ Required
     API_HASH = os.environ.get("API_HASH", "4e81464b29d79c58d0ad8a0c55ece4a5")  # ⚠️ Required
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6363889833:AAGcDoJJGc2f9-5QrOR7Ni3w_mvv2wRU6-A")  # ⚠️ Required
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7286194908:AAFrIMoVWoT6hh0f6BKk4EnVsDXwr8qqPGs")  # ⚠️ Required
 
     # premium 4g renaming client
     STRING_API_ID = os.environ.get("STRING_API_ID", "")
@@ -26,7 +26,7 @@ class Config(object):
     ADMIN = [int(admin) if id_pattern.search(
         admin) else admin for admin in os.environ.get('ADMIN', '5585016974').split()]  # ⚠️ Required
     
-    FORCE_SUB = os.environ.get("FORCE_SUB", "-1002112596877") # ⚠️ Required Username without @
+    FORCE_SUB = os.environ.get("FORCE_SUB", "-1001930406310") # ⚠️ Required Username without @
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002204896499"))  # ⚠️ Required
     FLOOD = int(os.environ.get("FLOOD", '20'))
     BANNED_USERS = set(int(x) for x in os.environ.get(
